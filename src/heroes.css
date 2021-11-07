@@ -1,0 +1,14 @@
+
+img {
+    width: 300px;
+    margin: auto;
+    padding-top: 10px;
+}
+.text-about{
+    font-weight: 800;
+}
+
+.hero-card{
+    padding-left: 10px;
+    padding-right: 10px;
+}
